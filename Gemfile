@@ -36,6 +36,6 @@ end
 
 gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
-gem 'devise', '~> 4.6', '>= 4.6.2'
+gem 'devise', '~> 4.7'
 gem 'toastr-rails'
 gem 'activeadmin'
